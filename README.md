@@ -1,5 +1,7 @@
 A short summary of my terminal setup. This is mostly just for my own future reference.
 
+![Screenshot](Screen Shot 2016-06-04 at 23.18.45 .png)
+
 ## iTerm settings
 
 - Appearance 
