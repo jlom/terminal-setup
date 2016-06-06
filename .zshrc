@@ -13,3 +13,5 @@ HIST_STAMPS="dd.mm.yyyy"
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin"
 source $ZSH/oh-my-zsh.sh
+eval $(thefuck --alias)
+[[ -s "$HOME/.local/share/marker/marker.sh" ]] && source "$HOME/.local/share/marker/marker.sh"

@@ -54,6 +54,12 @@ Install [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highli
 $ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 
+Install [marker](https://github.com/pindexis/marker):
+```sh
+$ git clone https://github.com/pindexis/marker ~/.marker
+$ ~/.marker/install.py
+```
+
 Other [really](https://github.com/posva/catimg), [really](https://en.wikipedia.org/wiki/Cowsay) [useful](https://github.com/passy/givegif) tools: 🐮
 ```sh
 $ brew tap passy/givegif && brew install catimg cowsay givegif
