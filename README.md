@@ -60,9 +60,9 @@ $ git clone https://github.com/pindexis/marker ~/.marker
 $ ~/.marker/install.py
 ```
 
-Other [really](https://github.com/posva/catimg), [really](https://en.wikipedia.org/wiki/Cowsay) [useful](https://github.com/passy/givegif) tools: 🐮
+Install [The Fuck](https://github.com/nvbn/thefuck), and other [really](https://github.com/posva/catimg), [really](https://en.wikipedia.org/wiki/Cowsay) [useful](https://github.com/passy/givegif) tools: 🐮
 ```sh
-$ brew tap passy/givegif && brew install catimg cowsay givegif
+$ brew tap passy/givegif && brew install catimg cowsay givegif thefuck
 ```
 
 Finally copy the [.zshrc](.zshrc)-file to the home dir.
