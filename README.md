@@ -1,6 +1,6 @@
 A short summary of my terminal setup. This is mostly just for my own future reference.
 
-![Screenshot](Screen Shot 2016-06-04 at 23.18.45 .png)
+![Screenshot](https://github.com/jlom/terminal-setup/blob/master/Screen%20Shot%202016-06-04%20at%2023.18.45%20.png)
 
 ## iTerm settings
 
