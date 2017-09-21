@@ -3,35 +3,9 @@ A short summary of my terminal setup. This is mostly just for my own future refe
 ![Screenshot](https://github.com/jlom/terminal-setup/blob/master/Screen%20Shot%202016-06-04%20at%2023.18.45%20.png)
 
 ## iTerm settings
-
-- Appearance 
-  - Tabs
-    - Theme: Dark 
-
-- Profiles
-  - Colors
-    - Color Presets… -> Import -> [Japanesque](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Japanesque.itermcolors)
-
-- Text
-  - Cursor: Underline
-  - Font: 10pt [Droid Sans Mono Awesome](https://github.com/gabrielelana/awesome-terminal-fonts/tree/patching-strategy/patched)
-  - Use thin strokes for anti-aliased text: Always
-  - Uncheck "Use a different font for non-ASCII text"
-
-- Terminal
-  - Report Terminal Type: `xterm-256color`
-
-- Keys
-  - `⌘ + Backspace`: Send Hex Codes: `0x15` _(Erase to start of line)_
-  - `⌥ + Backspace`: Send Hex Codes `0x1b 0x88` _(Erase one word back)_
-  - `⌘ + ←`: Send Hex Codes: `0x01` _(Cursor to start of line)_
-  - `⌘ + →`: Send Hex Codes: `0x05` _(Cursor to end of line)_
-  - `⌥ + ←`: Send Hex Codes: `0x1b 0x62` _(Cursor one word back)_
-  - `⌥ + →`: Send Hex Codes: `0x1b 0x66` _(Cursor one word forward)_
-
-- Advanced
-  Use "smart truncation" for tab titles
-  Terminal windows resize smoothly
+- Set the tab appearance to dark: *Appearance → Tabs → Theme: Dark*
+- Install [Droid Sans Mono Awesome](https://github.com/gabrielelana/awesome-terminal-fonts/tree/patching-strategy/patched)
+- Drop `iTermProfile.json` into `~/Library/Application Support/iTerm2/DynamicProfiles`
 
 ## Zsh
 Install [Oh My Zsh](http://ohmyz.sh/):
